@@ -46,8 +46,8 @@ Before you start, make sure you have:
 
 - [ ] **Claude Code** installed (Pro or Max subscription)
 - [ ] **Node.js 20+** installed on your computer
-- [ ] A **Google AI Studio** account (free)
-- [ ] A **Gemini API Key** (free tier available)
+- [ ] A **Google AI Studio** account
+- [ ] A **Gemini API Key** (pay-as-you-go — ~$0.13 per 2K image)
 
 ---
 
@@ -58,7 +58,7 @@ Before you start, make sure you have:
 3. Select or create a Google Cloud project
 4. Copy your API key
 
-> **Important:** The free tier gives you **enough requests to learn and practice**. You don't need to pay anything for this lesson.
+> **Important:** Gemini API uses pay-as-you-go pricing. Set up a [Google Cloud billing profile](https://console.cloud.google.com/billing). Each 2K image costs ~$0.13 ($0.24 for 4K, 50% off with batch mode). Start with **$5-10 in credits** — that's plenty for this lesson and beyond.
 
 ---
 
