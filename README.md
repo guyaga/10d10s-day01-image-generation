@@ -98,7 +98,7 @@ The skill is already installed if you're following the course. If not:
 cd ~/.claude/skills/
 
 # Clone this skill
-git clone https://github.com/guyaga/10d10s-day03-image-generation nano-banano-pro
+git clone https://github.com/guyaga/10d10s-day01-image-generation nano-banano-pro
 ```
 
 ### Install the SDK:
